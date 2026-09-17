@@ -1,0 +1,181 @@
+Order_ID,Order_Date,Region,Category,Subcategory,Units,Discount,Sales,Profit
+1,2025-11-24,East,Technology,Phones,4,0.15,873.56,83.29
+2,2025-04-22,North,Furniture,Chairs,7,0.10,2095.73,344.22
+3,2025-03-23,East,Technology,Accessories,2,0.00,235.13,41.16
+4,2025-05-16,West,Technology,Phones,3,0.20,1366.66,204.01
+5,2025-12-27,South,Furniture,Tables,7,0.10,3454.19,431.86
+6,2025-08-12,West,Technology,Laptops,6,0.05,3250.84,488.31
+7,2025-10-19,North,Office Supplies,Binders,5,0.00,350.29,68.34
+8,2025-01-14,South,Furniture,Storage,4,0.15,1342.18,144.58
+9,2025-06-03,West,Technology,Accessories,5,0.10,1008.52,132.83
+10,2025-02-25,East,Furniture,Chairs,3,0.00,876.33,122.78
+11,2025-07-08,North,Technology,Laptops,2,0.05,1194.28,180.89
+12,2025-09-30,South,Office Supplies,Paper,8,0.00,518.72,120.18
+13,2025-03-11,West,Furniture,Tables,5,0.20,1992.45,209.14
+14,2025-11-05,North,Technology,Phones,6,0.10,3210.54,387.45
+15,2025-04-09,East,Furniture,Storage,3,0.05,642.37,76.18
+16,2025-08-26,South,Technology,Laptops,4,0.00,2743.62,518.44
+17,2025-06-21,West,Office Supplies,Stationery,7,0.15,426.18,77.52
+18,2025-12-03,North,Furniture,Chairs,5,0.10,1712.55,241.08
+19,2025-02-17,South,Technology,Accessories,8,0.20,1568.72,185.94
+20,2025-10-07,West,Furniture,Tables,2,0.05,1044.62,141.37
+21,2025-01-29,East,Office Supplies,Paper,6,0.00,391.44,91.23
+22,2025-05-28,North,Technology,Laptops,3,0.15,1758.36,188.45
+23,2025-09-13,South,Furniture,Storage,7,0.10,2318.47,287.32
+24,2025-07-24,West,Technology,Phones,5,0.00,2146.75,422.13
+25,2025-03-04,North,Office Supplies,Binders,4,0.05,274.88,56.39
+26,2025-11-18,East,Furniture,Chairs,6,0.15,1834.22,205.48
+27,2025-04-30,South,Technology,Accessories,5,0.10,1196.54,166.73
+28,2025-08-05,West,Furniture,Tables,4,0.20,1788.31,184.52
+29,2025-06-15,North,Technology,Laptops,7,0.00,3894.27,729.36
+30,2025-12-19,South,Office Supplies,Stationery,8,0.10,497.63,96.15
+31,2025-02-03,East,Technology,Phones,3,0.05,1473.26,257.14
+32,2025-10-26,West,Furniture,Storage,5,0.15,1582.44,178.66
+33,2025-07-16,North,Office Supplies,Paper,7,0.00,462.18,108.47
+34,2025-05-07,South,Technology,Laptops,4,0.10,2264.75,319.81
+35,2025-09-25,East,Furniture,Chairs,2,0.20,704.36,72.89
+36,2025-01-08,West,Technology,Accessories,6,0.05,1364.92,211.34
+37,2025-11-29,North,Furniture,Tables,5,0.10,2487.65,352.91
+38,2025-03-19,South,Office Supplies,Binders,8,0.15,508.74,91.44
+39,2025-06-28,East,Technology,Phones,4,0.00,1965.43,369.72
+40,2025-08-18,West,Furniture,Storage,6,0.05,2197.38,313.64
+41,2025-04-14,North,Technology,Laptops,2,0.10,1126.54,149.63
+42,2025-12-08,South,Furniture,Chairs,7,0.00,2653.77,397.21
+43,2025-02-21,East,Office Supplies,Stationery,5,0.20,293.61,42.15
+44,2025-10-11,West,Technology,Accessories,8,0.15,1774.35,191.77
+45,2025-07-03,North,Furniture,Tables,3,0.05,1458.92,215.83
+46,2025-05-21,South,Technology,Phones,6,0.10,2856.18,346.42
+47,2025-09-06,East,Furniture,Storage,4,0.00,1436.85,228.77
+48,2025-01-22,West,Office Supplies,Paper,7,0.15,437.52,81.29
+49,2025-11-12,North,Technology,Laptops,5,0.20,2622.44,282.11
+50,2025-03-28,South,Furniture,Chairs,4,0.10,1547.33,213.84
+51,2025-06-09,East,Technology,Accessories,3,0.05,627.19,98.74
+52,2025-08-30,West,Furniture,Tables,6,0.15,2865.42,304.26
+53,2025-04-03,North,Office Supplies,Binders,5,0.00,337.45,72.16
+54,2025-12-24,South,Technology,Phones,7,0.10,3157.83,421.77
+55,2025-10-02,East,Furniture,Storage,3,0.20,941.66,94.82
+56,2025-02-12,West,Technology,Laptops,4,0.00,2294.58,457.93
+57,2025-07-29,North,Furniture,Chairs,8,0.05,2735.84,401.29
+58,2025-05-12,South,Office Supplies,Stationery,6,0.15,378.21,65.13
+59,2025-09-19,East,Technology,Accessories,5,0.10,1045.37,139.24
+60,2025-01-31,West,Furniture,Tables,2,0.00,981.46,154.33
+61,2025-11-01,North,Technology,Laptops,6,0.05,3346.71,601.18
+62,2025-03-08,South,Furniture,Storage,5,0.10,1875.23,241.46
+63,2025-06-24,East,Office Supplies,Paper,8,0.00,526.48,123.57
+64,2025-08-09,West,Technology,Phones,3,0.15,1324.72,142.66
+65,2025-04-26,North,Furniture,Chairs,4,0.20,1217.56,121.33
+66,2025-12-13,South,Technology,Laptops,5,0.05,3012.85,543.47
+67,2025-10-21,East,Furniture,Tables,7,0.10,3421.26,486.53
+68,2025-02-28,West,Office Supplies,Binders,6,0.00,402.33,94.76
+69,2025-07-12,North,Technology,Accessories,8,0.15,1694.82,206.51
+70,2025-05-31,South,Furniture,Storage,3,0.05,1138.47,167.18
+71,2025-09-02,East,Technology,Phones,4,0.00,1853.61,351.42
+72,2025-01-17,West,Furniture,Chairs,5,0.10,1728.54,239.67
+73,2025-11-23,North,Office Supplies,Stationery,7,0.20,421.75,55.38
+74,2025-03-15,South,Technology,Laptops,3,0.10,1635.82,228.47
+75,2025-06-18,East,Furniture,Tables,6,0.15,2761.45,285.71
+76,2025-08-22,West,Technology,Accessories,5,0.05,1093.62,178.54
+77,2025-04-18,North,Furniture,Storage,4,0.00,1467.88,248.03
+78,2025-12-01,South,Office Supplies,Paper,8,0.10,501.36,93.42
+79,2025-10-15,East,Technology,Laptops,2,0.20,1005.28,103.11
+80,2025-02-06,West,Furniture,Chairs,7,0.05,2416.93,366.54
+81,2025-07-21,North,Technology,Phones,6,0.15,2718.35,290.16
+82,2025-05-04,South,Furniture,Tables,5,0.00,2531.74,402.73
+83,2025-09-28,East,Office Supplies,Binders,4,0.10,276.43,55.81
+84,2025-01-11,West,Technology,Laptops,3,0.05,1644.92,305.42
+85,2025-11-07,North,Furniture,Storage,6,0.10,2143.58,297.26
+86,2025-03-25,South,Technology,Accessories,7,0.20,1421.63,151.74
+87,2025-06-30,East,Furniture,Chairs,5,0.15,1518.27,155.86
+88,2025-08-14,West,Office Supplies,Stationery,8,0.00,483.26,116.28
+89,2025-04-07,North,Technology,Phones,4,0.10,1928.54,267.72
+90,2025-12-21,South,Furniture,Tables,3,0.05,1572.88,239.61
+91,2025-10-05,East,Technology,Laptops,5,0.00,2835.44,545.37
+92,2025-02-19,West,Furniture,Storage,7,0.20,2216.73,207.62
+93,2025-07-06,North,Office Supplies,Paper,6,0.15,387.55,69.32
+94,2025-05-18,South,Technology,Accessories,4,0.05,912.63,145.81
+95,2025-09-11,East,Furniture,Chairs,8,0.10,2944.67,412.76
+96,2025-01-26,West,Technology,Laptops,2,0.00,1186.52,231.37
+97,2025-11-15,North,Furniture,Tables,6,0.15,2887.36,291.88
+98,2025-03-02,South,Office Supplies,Binders,5,0.10,322.47,62.39
+99,2025-06-12,East,Technology,Phones,7,0.20,2973.54,301.22
+100,2025-08-27,West,Furniture,Storage,4,0.05,1537.88,226.41
+101,2025-04-11,North,Technology,Laptops,5,0.10,2781.63,381.25
+102,2025-12-06,South,Furniture,Chairs,6,0.00,2264.71,358.47
+103,2025-10-28,East,Office Supplies,Stationery,7,0.15,416.28,70.21
+104,2025-02-09,West,Technology,Accessories,6,0.10,1216.84,174.63
+105,2025-07-18,North,Furniture,Tables,4,0.05,2034.16,319.48
+106,2025-05-25,South,Technology,Phones,5,0.00,2418.35,468.91
+107,2025-09-04,East,Furniture,Storage,3,0.20,1053.74,106.37
+108,2025-01-19,West,Office Supplies,Paper,8,0.10,493.62,91.87
+109,2025-11-25,North,Technology,Laptops,7,0.15,3564.88,407.36
+110,2025-03-12,South,Furniture,Chairs,5,0.05,1782.45,271.56
+111,2025-06-26,East,Technology,Accessories,4,0.00,846.73,162.49
+112,2025-08-16,West,Furniture,Tables,6,0.10,2913.55,365.18
+113,2025-04-29,North,Office Supplies,Binders,8,0.20,497.84,71.26
+114,2025-12-28,South,Technology,Phones,3,0.05,1446.31,274.82
+115,2025-10-09,East,Furniture,Storage,5,0.15,1627.44,173.91
+116,2025-02-24,West,Technology,Laptops,4,0.10,2263.74,331.66
+117,2025-07-31,North,Furniture,Chairs,7,0.00,2484.63,392.57
+118,2025-05-09,South,Office Supplies,Stationery,6,0.05,369.44,77.12
+119,2025-09-23,East,Technology,Accessories,8,0.15,1652.47,186.44
+120,2025-01-05,West,Furniture,Tables,5,0.20,2174.83,202.61
+121,2025-11-03,North,Technology,Phones,6,0.10,2873.61,357.74
+122,2025-03-21,South,Furniture,Storage,4,0.00,1612.45,254.18
+123,2025-06-05,East,Office Supplies,Paper,7,0.10,455.38,87.53
+124,2025-08-24,West,Technology,Laptops,5,0.05,2876.49,528.34
+125,2025-04-16,North,Furniture,Chairs,3,0.15,1025.37,113.66
+126,2025-12-16,South,Technology,Accessories,7,0.20,1374.63,142.75
+127,2025-10-13,East,Furniture,Tables,4,0.10,1935.28,270.63
+128,2025-02-15,West,Office Supplies,Binders,8,0.00,523.46,122.17
+129,2025-07-27,North,Technology,Laptops,6,0.15,3157.72,357.46
+130,2025-05-27,South,Furniture,Storage,5,0.05,1847.53,287.14
+131,2025-09-08,East,Technology,Phones,4,0.00,2013.64,397.72
+132,2025-01-24,West,Furniture,Chairs,6,0.10,2087.44,293.87
+133,2025-11-20,North,Office Supplies,Stationery,5,0.20,302.54,39.63
+134,2025-03-06,South,Technology,Accessories,3,0.05,618.44,98.37
+135,2025-06-22,East,Furniture,Tables,7,0.15,3246.52,342.66
+136,2025-08-02,West,Technology,Laptops,4,0.10,2187.33,326.41
+137,2025-04-22,North,Furniture,Storage,8,0.00,2895.71,478.52
+138,2025-12-10,South,Office Supplies,Paper,6,0.15,364.72,61.53
+139,2025-10-24,East,Technology,Phones,5,0.05,2458.37,432.81
+140,2025-02-27,West,Furniture,Chairs,4,0.20,1307.55,129.18
+141,2025-07-09,North,Technology,Accessories,7,0.10,1518.63,225.41
+142,2025-05-14,South,Furniture,Tables,5,0.00,2527.34,413.82
+143,2025-09-16,East,Office Supplies,Binders,8,0.10,482.37,91.46
+144,2025-01-30,West,Technology,Laptops,3,0.15,1512.76,163.52
+145,2025-11-09,North,Furniture,Storage,6,0.05,2318.42,356.73
+146,2025-03-18,South,Technology,Phones,4,0.20,1692.47,174.82
+147,2025-06-17,East,Furniture,Chairs,7,0.10,2536.83,342.17
+148,2025-08-11,West,Office Supplies,Stationery,5,0.00,319.54,75.83
+149,2025-04-05,North,Technology,Accessories,6,0.05,1286.43,207.62
+150,2025-12-23,South,Furniture,Tables,4,0.15,1934.27,192.46
+151,2025-10-17,East,Technology,Laptops,5,0.10,2718.54,391.73
+152,2025-02-11,West,Furniture,Storage,3,0.00,1164.38,188.42
+153,2025-07-14,North,Office Supplies,Paper,8,0.20,467.26,62.18
+154,2025-05-02,South,Technology,Phones,6,0.05,2843.65,485.71
+155,2025-09-29,East,Furniture,Chairs,5,0.15,1516.37,158.26
+156,2025-01-16,West,Technology,Accessories,7,0.10,1462.84,205.19
+157,2025-11-27,North,Furniture,Tables,6,0.00,3128.47,528.46
+158,2025-03-30,South,Office Supplies,Binders,4,0.10,274.58,52.17
+159,2025-06-08,East,Technology,Laptops,3,0.20,1498.64,154.37
+160,2025-08-29,West,Furniture,Storage,8,0.05,2945.63,461.84
+161,2025-04-20,North,Technology,Phones,5,0.10,2347.52,318.61
+162,2025-12-04,South,Furniture,Chairs,7,0.00,2718.44,428.15
+163,2025-10-31,East,Office Supplies,Stationery,6,0.15,357.63,61.28
+164,2025-02-05,West,Technology,Laptops,4,0.05,2274.82,421.63
+165,2025-07-26,North,Furniture,Tables,5,0.20,2316.45,232.77
+166,2025-05-20,South,Technology,Accessories,8,0.10,1718.53,237.42
+167,2025-09-14,East,Furniture,Storage,3,0.00,1094.26,181.34
+168,2025-01-28,West,Office Supplies,Paper,7,0.05,418.74,91.73
+169,2025-11-17,North,Technology,Laptops,6,0.15,3084.55,354.62
+170,2025-03-24,South,Furniture,Chairs,4,0.10,1376.83,185.46
+171,2025-06-29,East,Technology,Phones,5,0.00,2374.52,471.26
+172,2025-08-07,West,Furniture,Tables,7,0.05,3375.64,538.19
+173,2025-04-13,North,Office Supplies,Binders,6,0.20,389.52,51.34
+174,2025-12-17,South,Technology,Accessories,4,0.15,802.47,91.74
+175,2025-10-06,East,Furniture,Storage,5,0.10,1748.32,232.85
+176,2025-02-22,West,Technology,Laptops,3,0.00,1764.53,351.42
+177,2025-07-02,North,Furniture,Chairs,8,0.05,2825.47,447.23
+178,2025-05-30,South,Office Supplies,Stationery,7,0.10,421.63,80.44
+179,2025-09-21,East,Technology,Phones,6,0.20,2694.38,274.31
+180,2025-01-07,West,Furniture,Tables,4,0.15,1814.62,185.47
