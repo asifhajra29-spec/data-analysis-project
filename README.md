@@ -1,43 +1,62 @@
-# 📊 Data Analysis Project
+# 📊 Retail Sales Analysis
 
-A practical data analysis project focused on turning raw data into clear, useful insights.
+A beginner-friendly Business Analytics project using Python to explore retail sales, profit, regional performance, product categories, and discounts.
 
-## 🎯 Project Goal
+## 🎯 Objective
 
-Explore a real-world dataset, clean and analyze the data, identify meaningful patterns, and communicate the findings through visualizations.
+Turn raw transaction data into clear business insights through data cleaning, exploratory analysis, statistics, and visualization.
+
+> **Dataset note:** This repository uses a retail-style practice dataset created for portfolio learning. It is not presented as real company data.
+
+## ❓ Business Questions
+
+- Which category generates the most sales and profit?
+- Which region contributes the most sales?
+- How does sales performance change over time?
+- What relationship can be observed between discounts and profit?
 
 ## 🛠️ Tools & Skills
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Statistics
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-
-## 🔎 Planned Analysis
-
-- Data cleaning and preparation
-- Exploratory data analysis
-- Descriptive statistics
-- Trend and pattern identification
-- Data visualization
-- Key findings and recommendations
+- Descriptive Statistics
+- Data Visualization
+- Business Insight Generation
 
 ## 📁 Project Structure
 
 ```text
-├── data/           # Dataset files
-├── notebooks/      # Analysis notebooks
-├── visuals/        # Charts and exported visuals
+├── data/
+│   └── sales_data.csv       # 180 retail transactions
+├── analysis.ipynb           # Main analysis notebook
+├── requirements.txt         # Python dependencies
 └── README.md
 ```
 
+## 🔍 Analysis Workflow
+
+1. Load and inspect the dataset
+2. Check data quality and missing values
+3. Calculate overall sales, profit, and average order value
+4. Compare categories and regions
+5. Analyze monthly sales trends
+6. Explore discount vs. profit relationships
+7. Translate findings into business meaning
+
 ## 📌 Status
 
-🚧 In progress — dataset and analysis will be added as the project develops.
+🟢 **Analysis foundation complete** — dataset, notebook, and project structure are in place.
 
-## 💡 What I'm Learning
+## 🚀 Next Steps
 
-This project is part of my journey in Business Analytics, with a focus on using data to understand problems and support better decisions.
+- Run the notebook and document the final findings
+- Add profit-margin analysis
+- Build a Power BI dashboard using the same dataset
+- Practice SQL queries against the dataset
+
+## 💡 Learning Goal
+
+This project is part of my Business Analytics portfolio and focuses on learning how to move from **raw data → analysis → visualization → business insight**.
